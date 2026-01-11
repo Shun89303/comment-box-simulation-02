@@ -1,4 +1,4 @@
-import { CommentBox } from './components/Comment-Box/CommentBox.jsx';
+import { CommentBox } from './components/CommentBox/CommentBox.jsx';
 import './App.css';
 function App() {
   

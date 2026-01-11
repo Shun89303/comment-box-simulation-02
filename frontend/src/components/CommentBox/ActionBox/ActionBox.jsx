@@ -1,6 +1,6 @@
-import { ImageFile } from './Image-File/ImageFile.jsx';
-import { ImageBtn } from './Image-Button/ImageBtn.jsx';
-import { CommentBtn } from './Comment-Button/CommentBtn.jsx';
+import { ImageFile } from './ImageFile/ImageFile.jsx';
+import { ImageBtn } from './ImageButton/ImageBtn.jsx';
+import { CommentBtn } from './CommentButton/CommentBtn.jsx';
 
 export const ActionBox = () => {
     return (

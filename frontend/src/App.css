@@ -8,6 +8,10 @@
 }
 
 .text-input {
+    width: 100%;
+    min-height: 20px;
+    resize: vertical;
+    box-sizing: border-box;
     border: none;
     outline: none;
 }
@@ -40,4 +44,23 @@
     border-radius: 15px;
     padding: 5px 10px;
     cursor: pointer;
+}
+
+.comment {
+    /* width: 90%;
+    margin: 0 auto; */
+    padding-top: 30px;
+    border-bottom: 1px solid #414040;
+}
+
+.comment-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    color: #5d5c5c;
+    padding-left: 10px;
+}
+
+.comment-image {
+    width: 200px;
+    padding-left: 10px;
 }
